@@ -18,3 +18,7 @@
         <img src="http://img.shields.io/badge/swift-4.1-brightgreen.svg" alt="Swift 4.1">
     </a>
 </center>
+
+Sweet vapor tutorial by [Martin Lasek][tutorial] on setting up project in Vapor3.
+
+[tutorial]: https://medium.com/@martinlasek/tutorial-how-to-set-up-a-vapor-3-project-75466394cf2e
